@@ -1,0 +1,1703 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Vivek Mishra | Developer</title>
+	<meta name="description" content="I'M Full Stack Developer. WebApp Developer with
+	over 1  year of experience. Experienced with all stages of the development cycle for dynamic
+	web/mobile/hybrid app projects." />
+	<meta name="keywords"
+		content="developer,react ,firebase,app development, App development, web development, website" />
+	<meta name="author" content="Vivek Mishra" />
+	<!-- Facebook monitzation -->
+	<meta property="fb:pages" content="1559232181035966" />
+
+	<!-- favicon -->
+	<link rel="shortcut icon" href="images/new/vikki.ico">
+
+	<!-- google font -->
+	<link href="https://fonts.googleapis.com/css?family=Roboto:400,500,700" rel="stylesheet">
+
+	<!-- Bootstrap core CSS -->
+	<link rel="stylesheet" href="css/bootstrap.min.css" type="text/css">
+
+	<!-- Magnificpopup Css -->
+	<link rel="stylesheet" type="text/css" href="css/magnific-popup.css">
+
+	<!-- Icons -->
+	<link rel="stylesheet" type="text/css" href="css/fontawesome.css" />
+	<link rel="stylesheet" type="text/css" href="css/pe-icon-7-stroke.css" />
+
+
+	<!--Slider-->
+	<link rel="stylesheet" href="css/owl.carousel.css" />
+	<link rel="stylesheet" href="css/owl.theme.css" />
+	<link rel="stylesheet" href="css/owl.transitions.css" />
+
+	<!-- Custom  Css -->
+	<link rel="stylesheet" type="text/css" href="css/style.css" />
+
+
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script>
+		(adsbygoogle = window.adsbygoogle || []).push({
+			google_ad_client: "ca-pub-3597863394410765",
+			enable_page_level_ads: true
+		});
+	</script>
+
+
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-89848858-3"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+
+		function gtag() {
+			dataLayer.push(arguments);
+		}
+		gtag('js', new Date());
+
+		gtag('config', 'UA-89848858-3');
+	</script>
+
+
+</head>
+
+<body>
+
+	<div class="sidenav">
+		<div class="text-center mt-30 mb-30">
+			<div class="d-none d-lg-inline-block">
+				<a class="logo text-uppercase"><img src="images/new/logo3.png" alt="logo" height="90"></a>
+			</div>
+		</div>
+		<div class="bar"></div>
+		<!-- NAVBAR -->
+		<nav class="navbar navbar-expand-lg navbar-custom sticky">
+			<div class="container">
+				<a class="mobile-re text-uppercase d-inline-block d-lg-none" href="#"><img src="images/new/logo3.png"
+						alt="logo" height="55"></a>
+				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+					aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+					<span class="fas fa-bars"></span>
+				</button>
+
+				<div class="collapse navbar-collapse" id="navbarNav">
+					<ul class="navbar-nav nav flex-column">
+						<li class="nav-item active">
+							<a class="nav-link" href="#home"><i class="fas fa-home mr-3"></i>Home</a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link" href="#services"><i class="fas fa-cog mr-3"></i>Services</a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link" href="#experience"><i class="fas fa-trophy mr-3"></i>Experience</a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link" href="#portfolio"><i class="fas fa-image mr-3"></i>Portfolio</a>
+						</li>
+						<!-- <li class="nav-item">
+							<a class="nav-link" href="#testimonial"><i class="fas fa-quote-left mr-3"></i>Reviews</a>
+						</li> -->
+						<!-- <li class="nav-item">
+							<a class="nav-link" href="#news"><i class="fas fa-newspaper mr-3"></i>Articles</a>
+						</li> -->
+						<li class="nav-item">
+							<a class="nav-link" href="#contact"><i class="fas fa-envelope mr-3"></i>Contact</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</nav>
+		<!-- NAVBAR END-->
+
+		<div class="bottom-social text-center d-none d-lg-inline-block">
+			<ul class="list-unstyled icon">
+				<li class="list-inline-item" title="Vivek Mishra - LinkedIn"><a
+						href="https://linkedin.com/in/vivek mishra25/" target="_blank"><i
+							class="fab fa-linkedin"></i></a>
+				</li>
+				<li class="list-inline-item" title="Vivek Mishra - Skype"><a href="skype:vivekmishra"><i
+							class="fab fa-skype"></i></a></li>
+				<li class="list-inline-item" title="Vivek Mishra - Facebook"><a
+						href="https://facebook.com/vivekmishra" target="_blank"><i class="fab fa-facebook-f"></i></a>
+				</li>
+				<li class="list-inline-item" title="mishraa2535 - Instagram"><a
+						href="https://instagram.com/" target="_blank"><i class="fab fa-instagram"></i></a>
+				</li>
+				<li class="list-inline-item" title="Vivek Mishra - YouTube"><a
+						href="https://youtube.com/ target="_blank"><i
+							class="fab fa-youtube"></i></a></li>
+			</ul>
+		</div>
+	</div>
+
+
+
+	<div class="main">
+		<!-- HOME START-->
+<div id="particles-js">
+		<section class="bg-home" id="home">
+			<div class="bg-overlay"></div>
+			<div class="home-center">
+				<div class="home-desc-center">
+					<div class="container">
+						<div class="row justify-content-center">
+							<div class="col-md-8">
+								<div class="title-heading text-center">
+									<img src="images/home/dp.jpg" alt="Mishra"
+										class="img-fluid d-block mx-auto rounded-circle img-thumbnail mb-3"
+										style="width: 180px;height: 180px;">
+									<h3>Looking For a Developer...?</h3>
+									<h4><span class="element"
+											data-elements="I'm Vivek, Developer, Freelancer, Blogger"></span>
+									</h4>
+									<p class="text-white mx-auto">I'm Developer. Web, NodeJs,ReactJs,Python Programmer
+										
+										Worked with all stages of the development cycle
+										for dynamic web app projects.</p>
+									 <div class="mt-3 home-icon">
+											<a href="#portfolio" class="btn btn-custom" style="z-index: 50;cursor: pointer;"><i class="fas fa-image mr-2"></i>View Portfolio</a>
+										</div> 
+										</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- HOME END-->
+
+		<!-- About Us -->
+		<section class="section" id="about">
+			<div class="container">
+				<div class="row justify-content-center">
+					<div class="col-md-8">
+						<div class="section-title text-center">
+							<h1 class="section-subtitle-top mb-4">About</h1>
+							<h3><i class="fas fa-user mr-3"></i>Who Am I!</h3>
+							<p class="text-muted">I love to develop softwares and interact people with it. I
+								design/develop Websites,
+								/React/JavaScript/Hybrid Apps, Icons, Logos, etc.</p>
+						</div>
+					</div>
+				</div>
+
+				<div class="row">
+					<div class="col-lg-4 col-md-5">
+						<div class="about-info mt-30">
+							<div class="title-heading">
+								<h4>Personal Information</h4>
+							</div>
+							<div class="about-list">
+								<ul class="list-unstyled">
+									<li><span class="title-head">Name : </span> <span> Vivek Mishra </span></li>
+									<li><span class="title-head">Email ID : </span> <span> vivekmishra2535@gmail.com
+										</span>
+									</li>
+									
+									
+									<!-- <li><span class="title-head">Nationality : </span> <span> USA </span></li> -->
+									<li><span class="title-head">Hobbies : </span> <span> Internet surfing & Music
+										</span></li>
+									<li><span class="title-head">Skype : </span> <span> Vivek Mishra </span></li>
+									<li><span class="title-head">Instagram : </span> <span> @mishraa2535 </span></li>
+									<li><span class="title-head">Phone : </span> <span> (+91) 9815952100 </span></li>
+									<li><span class="title-head">WhatsApp : </span> <span> (+91) 9815952100 </span></li>
+								</ul>
+								<div>
+									<!-- <a href="#" class="btn btn-custom"><i class="far fa-file-alt mr-2"></i>Resume</a> -->
+								</div>
+							</div>
+						</div>
+					</div>
+
+					<div class="col-lg-8 col-md-7">
+						<div class="about-info mt-30">
+							<div class="title-heading">
+								<h4>Interests</h4>
+							</div>
+							<div class="row">
+								<div class="col-3 col-md-4 col-lg-3">
+									<div class="hobby-div">
+										<div class="icon mb-2">
+											<i class="fas fa-book"></i>
+										</div>
+										<div class="hobby-head">
+											<h6>Reading</h6>
+										</div>
+									</div>
+								</div>
+
+								<div class="col-3 col-md-4 col-lg-3">
+									<div class="hobby-div">
+										<div class="icon mb-2">
+											<i class="fas fa-headphones-alt"></i>
+										</div>
+										<div class="hobby-head">
+											<h6>Music</h6>
+										</div>
+									</div>
+								</div>
+
+								<div class="col-3 col-md-4 col-lg-3">
+									<div class="hobby-div">
+										<div class="icon mb-2">
+											<i class="fas fa-coffee"></i>
+										</div>
+										<div class="hobby-head">
+											<h6>Coffee</h6>
+										</div>
+									</div>
+								</div>
+								<div class="col-3 col-md-4 col-lg-3">
+									<div class="hobby-div">
+										<div class="icon mb-2">
+											<i class="fas fa-plane-departure"></i>
+										</div>
+										<div class="hobby-head">
+											<h6>Travel</h6>
+										</div>
+									</div>
+								</div>
+
+								<div class="col-3 col-md-4 col-lg-3">
+									<div class="hobby-div">
+										<div class="icon mb-2">
+											<i class="fas fa-blog"></i>
+										</div>
+										<div class="hobby-head">
+											<h6>Blogging</h6>
+										</div>
+									</div>
+								</div>
+
+								<div class="col-3 col-md-4 col-lg-3">
+									<div class="hobby-div">
+										<div class="icon mb-2">
+											<i class="fas fa-tv"></i>
+										</div>
+										<div class="hobby-head">
+											<h6>Movies</h6>
+										</div>
+									</div>
+								</div>
+
+
+								<div class="col-3 col-md-4 col-lg-3">
+									<div class="hobby-div">
+										<div class="icon mb-2">
+											<i class="fas fa-car"></i>
+										</div>
+										<div class="hobby-head">
+											<h6>Cars</h6>
+										</div>
+									</div>
+								</div>
+
+								<div class="col-3 col-md-4 col-lg-3">
+									<div class="hobby-div">
+										<div class="icon mb-2">
+											<i class="fas fa-money-bill-alt"></i>
+										</div>
+										<div class="hobby-head">
+											<h6>Money</h6>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- About Us -->
+
+		<!-- Services -->
+		<section class="section bg-light" id="services">
+			<div class="container">
+				<div class="row justify-content-center">
+					<div class="col-md-8">
+						<div class="section-title text-center">
+							<h1 class="section-subtitle-top mb-4">Services</h1>
+							<h3><i class="fas fa-cog mr-3"></i>What I Do!</h3>
+							<p class="text-muted">I provide digital solutions to entrepreneurs and enterprises looking
+								to provide an omni
+								channel experience to their customers. My mission is to engineer and maximize ROI .</p>
+						</div>
+					</div>
+				</div>
+
+				<div class="row">
+					<div class="col-lg-4 col-md-4">
+						<div class="service-box mt-30">
+							<div class="service-icon">
+								<!-- <i class="pe-7s-light"></i> -->
+								<!-- <i class="pe-7s-airplay"></i> -->
+								<i class="pe-7s-display1"></i>
+
+
+							</div>
+
+							<div class="service-title">
+								<h4 class="text-uppercase">Web Applications</h4>
+								<p class="text-muted mb-0">I provide web applications in Angular, React & other popular
+									frameworks.</p>
+							</div>
+						</div>
+					</div>
+
+					<div class="col-lg-4 col-md-4">
+						<div class="service-box mt-30">
+							<div class="service-icon">
+								<i class="pe-7s-phone"></i>
+							</div>
+
+							<div class="service-title">
+								<h4 class="text-uppercase">Data Interpretation </h4>
+								<p class="text-muted mb-0">I'll help  make your data talk and give answers to your questions
+									With Python libraries .</p>
+							</div>
+						</div>
+					</div>
+
+					<div class="col-lg-4 col-md-4">
+						<div class="service-box mt-30">
+							<div class="service-icon">
+								<!-- <i class="pe-7s-display1"></i> -->
+								<i class="pe-7s-phone"></i>
+							</div>
+
+							<div class="service-title">
+								<h4 class="text-uppercase">Python GUI </h4>
+								<p class="text-muted mb-0">I'll provide fast and powerful Object-oriented interface for your GUI applications  .</p>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="row">
+					<div class="col-lg-4 col-md-4">
+						<div class="service-box mt-30">
+							<div class="service-icon">
+								<!-- <i class="pe-7s-world"></i> -->
+								<i class="pe-7s-phone"></i>
+
+							</div>
+
+							<div class="service-title">
+								<h4 class="text-uppercase">Ionic Applications</h4>
+								<p class="text-muted mb-0">Hybrid applications are also available compatible for both
+									Android and Ios
+									platforms.</p>
+							</div>
+						</div>
+					</div>
+
+					<div class="col-lg-4 col-md-4">
+						<div class="service-box mt-30">
+							<div class="service-icon">
+								<!-- <i class="pe-7s-airplay"></i> -->
+								<i class="pe-7s-world"></i>
+
+							</div>
+
+							<div class="service-title">
+								<h4 class="text-uppercase">SEO/ASO</h4>
+								<p class="text-muted mb-0">Search Engine Optimization (SEO) for your website and App
+									Store Optimization (ASO)
+									for your mobile apps.</p>
+							</div>
+						</div>
+					</div>
+
+					<div class="col-lg-4 col-md-4">
+						<div class="service-box mt-30">
+							<div class="service-icon">
+								<i class="pe-7s-gift"></i>
+							</div>
+
+							<div class="service-title">
+								<h4 class="text-uppercase">Freelancing</h4>
+								<p class="text-muted mb-0">I also provide freelancing work to remotely working persons
+									anywhere online.</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- Services -->
+
+		<!-- Skill -->
+		<section class="section">
+			<div class="container">
+
+
+				<div class="row">
+					<div class="col-md-12">
+						<div class="hiring-poster mt-30">
+							<div class="hiring-text">
+								<h4><i class="fas fa-image mr-2"></i>&nbsp;Experience </h4>
+								<p class="mb-0">With  Projects Successfully Done!</p>
+							</div>
+							<div class="hiring-button">
+								<a href="#contact" class="btn btn-white"><i class="fas fa-envelope mr-2"></i>Hire me</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- Skill -->
+
+		<!-- Experience -->
+		<section class="section bg-light" id="experience">
+			<div class="container">
+				<div class="row justify-content-center">
+					<div class="col-md-8">
+						<div class="section-title text-center">
+							<h1 class="section-subtitle-top mb-4">Experience</h1>
+							<h3><i class="fas fa-trophy mr-3"></i>Awards Achievements</h3>
+							<p class="text-muted">I love to explore design and interact people with it. I design
+								Website, Icons, Logos,
+								Print Templates, Mobile & Desktop App.</p>
+						</div>
+					</div>
+				</div>
+
+			<!--	<div class="row vertical-content">
+					<div class="col-md-8">
+						<div class="experience-content mt-30">
+							<div class="experience-box">
+								<div class="experience-date">2020-Present</div>
+								<div class="experience-info">
+									<div class="experience-info-header">
+										<i class="fas fa-briefcase"></i>
+										<h3>Monh Market - Remote</h3>
+										<p>Senior Software Developer</p>
+									</div>
+									<div class="experience-info-details">
+										<p class="text-muted mb-0">Working on Angular and Android Apps.</p>
+									</div>
+								</div>
+							</div>
+							<!-- <div class="experience-box">
+								<div class="experience-date">2020</div>
+								<div class="experience-info">
+									<div class="experience-info-header">
+										<i class="fas fa-briefcase"></i>
+										<h3>Apptunix - Mohali, India</h3>
+										<p>Full Stack Developer</p>
+									</div>
+									<div class="experience-info-details">
+										<p class="text-muted mb-0">Working on Angular, React, Flutter & NodeJs Apps.</p>
+									</div>
+								</div>
+							</div> 
+							<div class="experience-box">
+								<div class="experience-date">2019-2020</div>
+								<div class="experience-info">
+									<div class="experience-info-header">
+										<i class="fas fa-briefcase"></i>
+										<h3>Toffee Insurance - Haryana, India</h3>
+										<p>Full Stack Developer</p>
+									</div>
+									<div class="experience-info-details">
+										<p class="text-muted mb-0">Worked on React & Flutter Apps.</p>
+									</div>
+								</div>
+							</div>
+							<div class="experience-box">
+								<div class="experience-date">2018-2019</div>
+								<div class="experience-info">
+									<div class="experience-info-header">
+										<i class="fas fa-briefcase"></i>
+										<h3>Porcelain Pvt. Ltd. - Srinagar, India</h3>
+										<p>Full Stack Developer</p>
+									</div>
+									<div class="experience-info-details">
+										<p class="text-muted mb-0">Worked on Ionic, Android, Ios, Angular & NodeJs
+											Apps.</p>
+									</div>
+								</div>
+							</div>
+							<div class="experience-box">
+								<div class="experience-date">2018</div>
+								<div class="experience-info">
+									<div class="experience-info-header">
+										<i class="fas fa-briefcase"></i>
+										<h3>HopeClasses - Srinagar, India</h3>
+										<p>IT-Administrator</p>
+									</div>
+									<div class="experience-info-details">
+										<p class="text-muted mb-0">Worked on Android, Ios,
+											Angular & NodeJs Apps.</p>
+									</div>
+								</div>
+							</div>
+							<div class="experience-box">
+								<div class="experience-date">2017-2018</div>
+								<div class="experience-info">
+									<div class="experience-info-header">
+										<i class="fas fa-briefcase"></i>
+										<h3>Click-Labs, Jugnoo - Chandigarh, India</h3>
+										<p>Ionic Developer</p>
+									</div>
+									<div class="experience-info-details">
+										<p class="text-muted mb-0">Worked on Ionic, Angular & NodeJs Apps.</p>
+									</div>
+								</div>
+							</div>
+							<div class="experience-box">
+								<div class="experience-date">2015-2016</div>
+								<div class="experience-info">
+									<div class="experience-info-header">
+										<i class="fas fa-briefcase"></i>
+										<h3>Elance Technologies - Srinagar, India</h3>
+										<p>Android Developer</p>
+									</div>
+									<div class="experience-info-details">
+										<p class="text-muted mb-0">Android Developer as well as a Team Lead.</p>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+
+					<div class="col-md-4 ml-auto">
+						<img src="images/experience.jpg" class="img-fluid mx-auto d-block mt-30" alt="img_missing"
+							style="border-radius: 50%;">
+					</div>
+				</div>
+			</div>
+		</section> -->
+		<!-- experience -->
+
+		<!-- Portfolio -->
+		<section class="section" id="portfolio">
+			<div class="container">
+				<div class="row justify-content-center">
+					<div class="col-md-8">
+						<div class="section-title text-center">
+							<h1 class="section-subtitle-top mb-4">Portfolio</h1>
+							<h3><i class="fas fa-images mr-3"></i>My Work Showcase</h3>
+							<p class="text-muted">I love to explore design and interact people with it. I design
+								Website, Icons, Logos,
+								Print Templates, Mobile & Desktop App.</p>
+						</div>
+					</div>
+				</div>
+
+				<!-- <div class="row justify-content-center">
+					<div class="col-md-12">
+						<div class="portfolioFilter mt-30 text-center">
+							<a href="#" data-filter="*" class="current">All</a>
+							<a href="#" data-filter=".web">WEB</a>
+							<a href="#" data-filter=".android">Android</a>
+							<a href="#" data-filter=".ios">IOS</a>
+							<a href="#" data-filter=".ionic">Hybrid</a>
+						</div>
+					</div>
+				</div> -->
+			</div>
+
+			<div class="container-fluid">
+				<div class="port portfolio-masonry mt-3">
+					<div class="portfolioContainer row">
+						
+						<div class="col-lg-3 col-md-6 web p-0">
+							<div class="item-box">
+								<a class="cbox-gallary1 mfp-image" href="images/new/toffee-1.jpg"
+									title="Magic Slippers-Web">
+									<img class="item-container" src="images/new/toffee-1.jpg"
+										alt="work-img" />
+									<div class="item-mask">
+										<div class="item-caption">
+											<h5 class="text-light">Magic Slippers</h5>
+											<p class="text-light">Web App</p>
+										</div>
+									</div>
+								</a>
+							</div>
+						</div>	
+
+						<div class="col-lg-3 col-md-6 web p-0">
+							<div class="item-box">
+								<a class="cbox-gallary1 mfp-image" href="images/new/toffee-2.png"
+									title="Energy Shoes-Web">
+									<img class="item-container" src="images/new/toffee-2.png"
+										alt="work-img" />
+									<div class="item-mask">
+										<div class="item-caption">
+											<h5 class="text-light">Energy Shoes</h5>
+											<p class="text-light">Web App</p>
+										</div>
+									</div>
+								</a>
+							</div>
+						</div>
+
+						<div class="col-lg-3 col-md-6 web p-0">
+							<div class="item-box">
+								<a class="cbox-gallary1 mfp-image" href="images/new/toffee-3.jpg"
+									title="Code Collab-Web">
+									<img class="item-container" src="images/new/toffee-3.jpg"
+										alt="work-img" />
+									<div class="item-mask">
+										<div class="item-caption">
+											<h5 class="text-light">Code Collab</h5>
+											<p class="text-light">Web App</p>
+										</div>
+									</div>
+								</a>
+							</div>
+						</div>
+
+						<div class="col-lg-3 col-md-6 web p-0">
+							<div class="item-box">
+								<a class="cbox-gallary1 mfp-image" href="images/new/toffee-4.jpg"
+									title="DC card-Web">
+									<img class="item-container" src="images/new/toffee-4.jpg"
+										alt="work-img" />
+									<div class="item-mask">
+										<div class="item-caption">
+											<h5 class="text-light">My Cards</h5>
+											<p class="text-light">Web App</p>
+										</div>
+									</div>
+								</a>
+							</div>
+						</div>
+
+						<div class="col-lg-3 col-md-6 web p-0">
+							<div class="item-box">
+								<a class="cbox-gallary1 mfp-image" href="images/new/tl-1.png"
+									title="Data Visua-Web">
+									<img class="item-container" src="images/new/tl-1.png"
+										alt="work-img" />
+									<div class="item-mask">
+										<div class="item-caption">
+											<h5 class="text-light">Data Visua</h5>
+											<p class="text-light">Web App</p>
+										</div>
+									</div>
+								</a>
+							</div>
+						</div>
+
+						<div class="col-lg-3 col-md-6 web p-0">
+							<div class="item-box">
+								<a class="cbox-gallary1 mfp-image" href="images/new/tl-2.png"
+									title="Tea Lovers">
+									<img class="item-container" src="images/new/tl-2.png"
+										alt="work-img" />
+									<div class="item-mask">
+										<div class="item-caption">
+											<h5 class="text-light">ChaiWorld</h5>
+											<p class="text-light">Web App</p>
+										</div>
+									</div>
+								</a>
+							</div>
+						</div>
+
+						<div class="col-lg-3 col-md-6 web p-0">
+							<div class="item-box">
+								<a class="cbox-gallary1 mfp-image" href="images/new/tl-3.png"
+									title="TimeWeb-App">
+									<img class="item-container" src="images/new/tl-3.png"
+										alt="work-img" />
+									<div class="item-mask">
+										<div class="item-caption">
+											<h5 class="text-light">TimeLife</h5>
+											<p class="text-light">Web App</p>
+										</div>
+									</div>
+								</a>
+							</div>
+						</div>
+
+						<div class="col-lg-3 col-md-6 web p-0">
+							<div class="item-box">
+								<a class="cbox-gallary1 mfp-image" href="images/new/tl-4.jpg"
+									title="Cryptosaw Web">
+									<img class="item-container" src="images/new/tl-4.jpg"
+										alt="work-img" />
+									<div class="item-mask">
+										<div class="item-caption">
+											<h5 class="text-light">Cryptosaw</h5>
+											<p class="text-light">Web App</p>
+										</div>
+									</div>
+								</a>
+							</div>
+						</div>
+
+					<!--	<div class="col-lg-3 col-md-6 web p-0">
+							<div class="item-box">
+								<a class="cbox-gallary1 mfp-image" href="images/new/tl-5.png"
+									title="Toffee Life-Web">
+									<img class="item-container" src="images/new/tl-5.png"
+										alt="work-img" />
+									<div class="item-mask">
+										<div class="item-caption">
+											<h5 class="text-light">Toffee Life</h5>
+											<p class="text-light">Web App</p>
+										</div>
+									</div>
+								</a>
+							</div>
+						</div>
+
+						<div class="col-lg-3 col-md-6 web p-0">
+							<div class="item-box">
+								<a class="cbox-gallary1 mfp-image" href="images/new/tl-6.png"
+									title="Toffee Life-Web">
+									<img class="item-container" src="images/new/tl-6.png"
+										alt="work-img" />
+									<div class="item-mask">
+										<div class="item-caption">
+											<h5 class="text-light">Toffee Life</h5>
+											<p class="text-light">Web App</p>
+										</div>
+									</div>
+								</a>
+							</div>
+						</div>
+
+						<div class="col-lg-3 col-md-6 web p-0">
+							<div class="item-box">
+								<a class="cbox-gallary1 mfp-image" href="images/new/tl-7.png"
+									title="Toffee Life-Web">
+									<img class="item-container" src="images/new/tl-7.png"
+										alt="work-img" />
+									<div class="item-mask">
+										<div class="item-caption">
+											<h5 class="text-light">Toffee Life</h5>
+											<p class="text-light">Web App</p>
+										</div>
+									</div>
+								</a>
+							</div>
+						</div>
+
+						<div class="col-lg-3 col-md-6 web p-0">
+							<div class="item-box">
+								<a class="cbox-gallary1 mfp-image" href="images/new/eggoz-1.png"
+									title="Eggoz-Web">
+									<img class="item-container" src="images/new/eggoz-1.png"
+										alt="work-img" />
+									<div class="item-mask">
+										<div class="item-caption">
+											<h5 class="text-light">Eggoz</h5>
+											<p class="text-light">Web App</p>
+										</div>
+									</div>
+								</a>
+							</div>
+						</div>
+
+
+						<div class="col-lg-3 col-md-6 web p-0">
+							<div class="item-box">
+								<a class="cbox-gallary1 mfp-image" href="images/new/eggoz-2.png"
+									title="Eggoz-Web">
+									<img class="item-container" src="images/new/eggoz-2.png"
+										alt="work-img" />
+									<div class="item-mask">
+										<div class="item-caption">
+											<h5 class="text-light">Eggoz</h5>
+											<p class="text-light">Web App</p>
+										</div>
+									</div>
+								</a>
+							</div>
+						</div>
+
+
+						<div class="col-lg-3 col-md-6 web p-0">
+							<div class="item-box">
+								<a class="cbox-gallary1 mfp-image" href="images/new/eggoz-3.png"
+									title="Eggoz-Web">
+									<img class="item-container" src="images/new/eggoz-3.png"
+										alt="work-img" />
+									<div class="item-mask">
+										<div class="item-caption">
+											<h5 class="text-light">Eggoz</h5>
+											<p class="text-light">Web App</p>
+										</div>
+									</div>
+								</a>
+							</div>
+						</div>
+
+
+						<div class="col-lg-3 col-md-6 web p-0">
+							<div class="item-box">
+								<a class="cbox-gallary1 mfp-image" href="images/new/eggoz-4.png"
+									title="Eggoz-Web">
+									<img class="item-container" src="images/new/eggoz-4.png"
+										alt="work-img" />
+									<div class="item-mask">
+										<div class="item-caption">
+											<h5 class="text-light">Eggoz</h5>
+											<p class="text-light">Web App</p>
+										</div>
+									</div>
+								</a>
+							</div>
+						</div>
+
+
+						<div class="col-lg-3 col-md-6 web p-0">
+							<div class="item-box">
+								<a class="cbox-gallary1 mfp-image" href="images/new/eggoz-5.png"
+									title="Eggoz-Web">
+									<img class="item-container" src="images/new/eggoz-5.png"
+										alt="work-img" />
+									<div class="item-mask">
+										<div class="item-caption">
+											<h5 class="text-light">Eggoz</h5>
+											<p class="text-light">Web App</p>
+										</div>
+									</div>
+								</a>
+							</div>
+						</div>
+
+
+						<div class="col-lg-3 col-md-6 web p-0">
+							<div class="item-box">
+								<a class="cbox-gallary1 mfp-image" href="images/new/eggoz-6.png"
+									title="Eggoz-Web">
+									<img class="item-container" src="images/new/eggoz-6.png"
+										alt="work-img" />
+									<div class="item-mask">
+										<div class="item-caption">
+											<h5 class="text-light">Eggoz</h5>
+											<p class="text-light">Web App</p>
+										</div>
+									</div>
+								</a>
+							</div>
+						</div>
+
+						<div class="col-lg-3 col-md-6 web p-0">
+							<div class="item-box">
+								<a class="cbox-gallary1 mfp-image" href="images/new/igc-1.png"
+									title="IGC SHOP-Web">
+									<img class="item-container" src="images/new/igc-1.png"
+										alt="work-img" />
+									<div class="item-mask">
+										<div class="item-caption">
+											<h5 class="text-light">IGC SHOP</h5>
+											<p class="text-light">Web App</p>
+										</div>
+									</div>
+								</a>
+							</div>
+						</div>
+
+						<div class="col-lg-3 col-md-6 web p-0">
+							<div class="item-box">
+								<a class="cbox-gallary1 mfp-image" href="images/new/igc-2.png"
+									title="IGC SHOP-Web">
+									<img class="item-container" src="images/new/igc-2.png"
+										alt="work-img" />
+									<div class="item-mask">
+										<div class="item-caption">
+											<h5 class="text-light">IGC SHOP</h5>
+											<p class="text-light">Web App</p>
+										</div>
+									</div>
+								</a>
+							</div>
+						</div>
+
+						<div class="col-lg-3 col-md-6 web p-0">
+							<div class="item-box">
+								<a class="cbox-gallary1 mfp-image" href="images/new/igc-3.png"
+									title="IGC SHOP-Web">
+									<img class="item-container" src="images/new/igc-3.png"
+										alt="work-img" />
+									<div class="item-mask">
+										<div class="item-caption">
+											<h5 class="text-light">IGC SHOP</h5>
+											<p class="text-light">Web App</p>
+										</div>
+									</div>
+								</a>
+							</div>
+						</div> -->
+
+
+						<!-- <div class="col-lg-3 col-md-6 web p-0">
+							<div class="item-box">
+								<a class="cbox-gallary1 mfp-image" href="images/portfolio/canhappen.png"
+									title="CanHappen-Web">
+									<img class="item-container" src="images/portfolio/canhappen-thumbnail.png"
+										alt="work-img" />
+									<div class="item-mask">
+										<div class="item-caption">
+											<h5 class="text-light">CanHappen</h5>
+											<p class="text-light">Web App</p>
+										</div>
+									</div>
+								</a>
+							</div>
+						</div>
+						<div class="col-lg-3 col-md-6 web p-0">
+							<div class="item-box">
+								<a class="cbox-gallary1 mfp-image" href="images/portfolio/hopeclasses.png"
+									title="HopeClasses">
+									<img class="item-container" src="images/portfolio/hopeclasses-thumbnail.png"
+										alt="work-img" />
+									<div class="item-mask">
+										<div class="item-caption">
+											<h5 class="text-light">HopeClasses</h5>
+											<p class="text-light">Web App</p>
+										</div>
+									</div>
+								</a>
+							</div>
+						</div>
+
+						<div class="col-lg-3 col-md-6 web p-0">
+							<div class="item-box">
+								<a class="cbox-gallary1 mfp-image" href="images/portfolio/ahnaf.png"
+									title="Ahnaf Ishaq">
+									<img class="item-container" src="images/portfolio/ahnaf-thumbnail.png"
+										alt="work-img" />
+									<div class="item-mask">
+										<div class="item-caption">
+											<h5 class="text-light">Ahnaf Ishaq</h5>
+											<p class="text-light">Web App</p>
+										</div>
+									</div>
+								</a>
+							</div>
+						</div>
+
+						<div class="col-lg-3 col-md-6 ionic android p-0">
+							<div class="item-box">
+								<a class="cbox-gallary1 mfp-image" href="images/portfolio/canhappen-app.PNG"
+									title="CanHappen-Android">
+									<img class="item-container" src="images/portfolio/canhappen-app-thumbnail.PNG"
+										alt="work-img" />
+									<div class="item-mask">
+										<div class="item-caption">
+											<h5 class="text-light">CanHappen</h5>
+											<p class="text-light">Android</p>
+										</div>
+									</div>
+								</a>
+							</div>
+						</div>
+
+						<div class="col-lg-3 col-md-6 ionic ios p-0">
+							<div class="item-box">
+								<a class="cbox-gallary1 mfp-image" href="images/portfolio/canhappen-ios.png"
+									title="CanHappen-Ios">
+									<img class="item-container" src="images/portfolio/canhappen-ios-thumbnail.png"
+										alt="work-img" />
+									<div class="item-mask">
+										<div class="item-caption">
+											<h5 class="text-light">CanHappen</h5>
+											<p class="text-light">IOS</p>
+										</div>
+									</div>
+								</a>
+							</div>
+						</div>
+
+						<div class="col-lg-3 col-md-6 web android p-0">
+							<div class="item-box">
+								<a class="cbox-gallary1 mfp-image" href="images/portfolio/igc.png" title="IGC SHOP">
+									<img class="item-container" src="images/portfolio/igc-thumbnail.png"
+										alt="work-img" />
+									<div class="item-mask">
+										<div class="item-caption">
+											<h5 class="text-light">IGC SHOP</h5>
+											<p class="text-light">Web/Android App</p>
+										</div>
+									</div>
+								</a>
+							</div>
+						</div>
+						<div class="col-lg-3 col-md-6 web p-0">
+							<div class="item-box">
+								<a class="cbox-gallary1 mfp-image" href="images/portfolio/hiremyboats.png"
+									title="HIREMYBOATS">
+									<img class="item-container" src="images/portfolio/hiremyboats - thumbnail.png"
+										alt="work-img" />
+									<div class="item-mask">
+										<div class="item-caption">
+											<h5 class="text-light">HireMyBoats</h5>
+											<p class="text-light">Web App</p>
+										</div>
+									</div>
+								</a>
+							</div>
+						</div>
+						<div class="col-lg-3 col-md-6 web android p-0">
+							<div class="item-box">
+								<a class="cbox-gallary1 mfp-image" href="images/portfolio/ontipz.png" title="ONTIPZ">
+									<img class="item-container" src="images/portfolio/ontipz-thumbnail.png"
+										alt="work-img" />
+									<div class="item-mask">
+										<div class="item-caption">
+											<h5 class="text-light">OnTipz</h5>
+											<p class="text-light">Web/Android App</p>
+										</div>
+									</div>
+								</a>
+							</div>
+						</div> -->
+						
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- Portfolio -->
+
+		<!-- Educations -->
+		<section class="section bg-light" id="study">
+			<div class="container">
+				<div class="row justify-content-center">
+					<div class="col-md-8">
+						<div class="section-title text-center">
+							<h1 class="section-subtitle-top mb-4">Educations</h1>
+							<h3><i class="fas fa-graduation-cap mr-3"></i>Academic Achievements</h3>
+							<!-- <p class="text-muted">I love to explore design and interact people with it. I design Website, Icons, Logos,
+								Print Templates, Mobile & Desktop App.</p> -->
+						</div>
+					</div>
+				</div>
+
+				<div class="row vertical-content">
+					<div class="col-md-8">
+						<div class="faq-content mt-30">
+							<div class="accordion" id="accordionExample">
+								<!-- <div class="card">
+									<a data-toggle="collapse" href="#collapseOne" class="faq" aria-expanded="true" aria-controls="collapseOne">
+										<div class="card-header" id="headingOne">
+											<h6 class="mb-0 faq-question"><i class="fas fa-graduation-cap"></i>UI/UX Designing - Singapore, 2016-17</h6>
+										</div>
+									</a>
+									<div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
+										<div class="card-body">
+											<p class="text-muted mb-0 faq-ans">I studied atomic stuff at Singapore University. I create usable web
+												interfaces, front end coding stuff and almost anything. But i love what i do.</p>
+										</div>
+									</div>
+								</div> -->
+								<!-- collapse one end -->
+
+								<div class="card">
+									<a data-toggle="collapse" href="#collapseTwo" class="faq collapsed"
+										aria-expanded="false" aria-controls="collapseTwo">
+										<div class="card-header" id="headingTwo">
+											<h6 class="mb-0 faq-question"><i class="fas fa-graduation-cap"></i>Masters
+												in Computer Applications - LPU,
+												2019-21</h6>
+										</div>
+									</a>
+									<div id="collapseTwo" class="collapse" aria-labelledby="headingTwo"
+										data-parent="#accordionExample">
+										<div class="card-body">
+											<p class="text-muted mb-0 faq-ans">I got my Masters in Computer Applications
+												from Lovely Professional
+												University(LPU).</p>
+										</div>
+									</div>
+								</div>
+								<!-- collapse two end -->
+
+								<div class="card">
+									<a data-toggle="collapse" href="#collapsethree" class="faq collapsed"
+										aria-expanded="false" aria-controls="collapsethree">
+										<div class="card-header" id="headingthree">
+											<h6 class="mb-0 faq-question"><i class="fas fa-graduation-cap"></i>Bachelors
+												In Computer Applications -
+												LPU, 2016-19</h6>
+										</div>
+									</a>
+									<div id="collapsethree" class="collapse" aria-labelledby="headingthree"
+										data-parent="#accordionExample">
+										<div class="card-body">
+											<p class="text-muted mb-0 faq-ans">I did my Bachelors in Computer
+												Applications from Lovely Professional University.</p>
+										</div>
+									</div>
+								</div>
+								<!-- collapse three end -->
+							</div>
+						</div>
+					</div>
+
+					<div class="col-md-4 ml-auto">
+						<img src="images/new/logo3.png" class="img-fluid mx-auto d-block mt-30" alt="img_missing"
+							style="border-radius: 50%;">
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- Educations -->
+
+		<!-- COUNTER START -->
+		<section class="section bg-counter">
+			<div class="bg-overlay"></div>
+			<div class="container">
+				<div class="row" id="counter">
+					<div class="col-lg-3 col-6">
+						<div class="counter text-center">
+							<div class="counter-icon mb-2">
+								<i class="fas fa-graduation-cap text-white h1"></i>
+							</div>
+							<div class="counter-content">
+								<h2 class="counter-value text-white mb-0" data-count="10">0</h2>
+								<p class="counter-name text-white mb-0">Complete project</p>
+							</div>
+						</div>
+					</div>
+					<!-- col end -->
+
+					<div class="col-lg-3 col-6">
+						<div class="counter text-center">
+							<div class="counter-icon mb-2">
+								<i class="fas fa-globe-europe text-white h1"></i>
+							</div>
+							<div class="counter-content">
+								<h2 class="counter-value text-white mb-0" data-count="20">0</h2>
+								<p class="counter-name text-white mb-0">Satisfied Clients</p>
+							</div>
+						</div>
+					</div>
+					<!-- col end -->
+
+					<div class="col-lg-3 col-6">
+						<div class="counter text-center">
+							<div class="counter-icon mb-2">
+								<i class="fas fa-star text-white h1"></i>
+							</div>
+							<div class="counter-content">
+								<h2 class="counter-value text-white mb-0" data-count="1">0</h2>
+								<p class="counter-name text-white mb-0">Years of experience</p>
+							</div>
+						</div>
+					</div>
+					<!-- col end -->
+
+					<div class="col-lg-3 col-6">
+						<div class="counter text-center">
+							<div class="counter-icon mb-2">
+								<i class="fas fa-award text-white h1"></i>
+							</div>
+							<div class="counter-content">
+								<h2 class="counter-value text-white mb-0" data-count="10">0</h2>
+								<p class="counter-name text-white mb-0">Blogs</p>
+							</div>
+						</div>
+					</div>
+					<!-- col end -->
+				</div>
+			</div>
+		</section>
+		<!-- COUNTER END -->
+
+		<!-- CLIENTS START -->
+		<section class="section bg-light" id="testimonial" style="display: none;">
+			<div class="container">
+				<div class="row justify-content-center">
+					<div class="col-md-8">
+						<div class="section-title text-center">
+							<h1 class="section-subtitle-top mb-4">Testimonial</h1>
+							<h3><i class="fas fa-quote-left mr-3"></i>Clients Love Me</h3>
+							<p class="text-muted">I love to explore design and interact people with it. I design
+								Website, Icons, Logos,
+								Print Templates, Mobile & Desktop App.</p>
+						</div>
+					</div>
+				</div>
+
+				<div class="row">
+					<div id="owl-demo">
+						<div class="item">
+							<div class="testi-content">
+								<div class="testi-box mt-30">
+									<div class="">
+										<div class="float-left mr-3">
+											<div class="client-img">
+												<img src="images/clients/img-1.jpg" alt=""
+													class="img-fluid rounded-circle">
+											</div>
+										</div>
+										<div class="clients-name text-left pt-3">
+											<h6 class="position-relative">Sherrie Barboza</h6>
+											<p class="text-muted">UI/UX Designer</p>
+										</div>
+										<div class="review-star">
+											<ul class="list-unstyled">
+												<li class="list-inline-item"><i class="fas fa-star"></i></li>
+												<li class="list-inline-item"><i class="fas fa-star"></i></li>
+												<li class="list-inline-item"><i class="fas fa-star"></i></li>
+												<li class="list-inline-item"><i class="fas fa-star"></i></li>
+												<li class="list-inline-item"><i class="fas fa-star-half-alt"></i></li>
+											</ul>
+										</div>
+									</div>
+									<p class="text-muted"> If you use this site regularly and would like to help keep
+										the site on the Internet,
+										please consider donating a small sum bill.</p>
+									<h4>Senior Management</h4>
+									<div class="quote-icon">
+										<i class="fas fa-quote-right"></i>
+									</div>
+								</div>
+							</div>
+						</div>
+						<!-- owl item and -->
+
+						<div class="item">
+							<div class="testi-content">
+								<div class="testi-box mt-30">
+									<div class="">
+										<div class="float-left mr-3">
+											<div class="client-img">
+												<img src="images/clients/img-2.jpg" alt=""
+													class="img-fluid rounded-circle">
+											</div>
+										</div>
+										<div class="clients-name text-left pt-3">
+											<h6 class="position-relative">Jonas Davis</h6>
+											<p class="text-muted">Web Designer</p>
+										</div>
+										<div class="review-star">
+											<ul class="list-unstyled">
+												<li class="list-inline-item"><i class="fas fa-star"></i></li>
+												<li class="list-inline-item"><i class="fas fa-star"></i></li>
+												<li class="list-inline-item"><i class="fas fa-star"></i></li>
+												<li class="list-inline-item"><i class="fas fa-star"></i></li>
+												<li class="list-inline-item"><i class="fas fa-star"></i></li>
+											</ul>
+										</div>
+									</div>
+									<p class="text-muted"> If you use this site regularly and would like to help keep
+										the site on the Internet,
+										please consider donating a small sum bill.</p>
+									<h4>Web Development</h4>
+									<div class="quote-icon">
+										<i class="fas fa-quote-right"></i>
+									</div>
+								</div>
+							</div>
+						</div>
+						<!-- owl item and -->
+
+						<div class="item">
+							<div class="testi-content">
+								<div class="testi-box mt-30">
+									<div class="">
+										<div class="float-left mr-3">
+											<div class="client-img">
+												<img src="images/clients/img-3.jpg" alt=""
+													class="img-fluid rounded-circle">
+											</div>
+										</div>
+										<div class="clients-name text-left pt-3">
+											<h6 class="position-relative">Mary Cantu</h6>
+											<p class="text-muted">PHP Developer</p>
+										</div>
+										<div class="review-star">
+											<ul class="list-unstyled">
+												<li class="list-inline-item"><i class="fas fa-star"></i></li>
+												<li class="list-inline-item"><i class="fas fa-star"></i></li>
+												<li class="list-inline-item"><i class="fas fa-star-half-alt"></i></li>
+												<li class="list-inline-item"><i class="far fa-star"></i></li>
+												<li class="list-inline-item"><i class="far fa-star"></i></li>
+											</ul>
+										</div>
+									</div>
+									<p class="text-muted"> If you use this site regularly and would like to help keep
+										the site on the Internet,
+										please consider donating a small sum bill.</p>
+									<h4>Graphic Developer</h4>
+									<div class="quote-icon">
+										<i class="fas fa-quote-right"></i>
+									</div>
+								</div>
+							</div>
+						</div>
+						<!-- owl item and -->
+
+						<div class="item">
+							<div class="testi-content">
+								<div class="testi-box mt-30">
+									<div class="">
+										<div class="float-left mr-3">
+											<div class="client-img">
+												<img src="images/clients/img-4.jpg" alt=""
+													class="img-fluid rounded-circle">
+											</div>
+										</div>
+										<div class="clients-name text-left pt-3">
+											<h6 class="position-relative">Rodney Grey</h6>
+											<p class="text-muted">Graphic Designer</p>
+										</div>
+										<div class="review-star">
+											<ul class="list-unstyled">
+												<li class="list-inline-item"><i class="fas fa-star"></i></li>
+												<li class="list-inline-item"><i class="fas fa-star"></i></li>
+												<li class="list-inline-item"><i class="fas fa-star"></i></li>
+												<li class="list-inline-item"><i class="fas fa-star-half-alt"></i></li>
+												<li class="list-inline-item"><i class="far fa-star"></i></li>
+											</ul>
+										</div>
+									</div>
+									<p class="text-muted"> If you use this site regularly and would like to help keep
+										the site on the Internet,
+										please consider donating a small sum bill.</p>
+									<h4>Best Designer</h4>
+									<div class="quote-icon">
+										<i class="fas fa-quote-right"></i>
+									</div>
+								</div>
+							</div>
+						</div>
+						<!-- owl item and -->
+
+						<div class="item">
+							<div class="testi-content">
+								<div class="testi-box mt-30">
+									<div class="">
+										<div class="float-left mr-3">
+											<div class="client-img">
+												<img src="images/clients/img-5.jpg" alt=""
+													class="img-fluid rounded-circle">
+											</div>
+										</div>
+										<div class="clients-name text-left pt-3">
+											<h6 class="position-relative">Shana Esposito</h6>
+											<p class="text-muted">Web Developer</p>
+										</div>
+										<div class="review-star">
+											<ul class="list-unstyled">
+												<li class="list-inline-item"><i class="fas fa-star"></i></li>
+												<li class="list-inline-item"><i class="fas fa-star"></i></li>
+												<li class="list-inline-item"><i class="fas fa-star"></i></li>
+												<li class="list-inline-item"><i class="fas fa-star-half-alt"></i></li>
+												<li class="list-inline-item"><i class="far fa-star"></i></li>
+											</ul>
+										</div>
+									</div>
+									<p class="text-muted"> If you use this site regularly and would like to help keep
+										the site on the Internet,
+										please consider donating a small sum bill.</p>
+									<h4>Senior Management</h4>
+									<div class="quote-icon">
+										<i class="fas fa-quote-right"></i>
+									</div>
+								</div>
+							</div>
+						</div>
+						<!-- owl item and -->
+
+						<div class="item">
+							<div class="testi-content">
+								<div class="testi-box mt-30">
+									<div class="">
+										<div class="float-left mr-3">
+											<div class="client-img">
+												<img src="images/clients/img-6.jpg" alt=""
+													class="img-fluid rounded-circle">
+											</div>
+										</div>
+										<div class="clients-name text-left pt-3">
+											<h6 class="position-relative">Linda Sanor</h6>
+											<p class="text-muted">UI/UX Designer</p>
+										</div>
+										<div class="review-star">
+											<ul class="list-unstyled">
+												<li class="list-inline-item"><i class="fas fa-star"></i></li>
+												<li class="list-inline-item"><i class="fas fa-star"></i></li>
+												<li class="list-inline-item"><i class="fas fa-star"></i></li>
+												<li class="list-inline-item"><i class="fas fa-star"></i></li>
+												<li class="list-inline-item"><i class="fas fa-star-half-alt"></i></li>
+											</ul>
+										</div>
+									</div>
+									<p class="text-muted"> If you use this site regularly and would like to help keep
+										the site on the Internet,
+										please consider donating a small sum bill.</p>
+									<h4>Graphic Developer</h4>
+									<div class="quote-icon">
+										<i class="fas fa-quote-right"></i>
+									</div>
+								</div>
+							</div>
+						</div>
+						<!-- owl item and -->
+					</div>
+				</div>
+			</div>
+
+			<div class="container">
+				<div class="row mt-4">
+					<div class="col-lg-2 col-md-4 col-6">
+						<div class="site-clients mt-3">
+							<img src="images/clients/client-01.png" alt="partners" class="img-fluid mx-auto d-block">
+						</div>
+					</div>
+					<div class="col-lg-2 col-md-4 col-6">
+						<div class="site-clients mt-3">
+							<img src="images/clients/client-02.png" alt="partners" class="img-fluid mx-auto d-block">
+						</div>
+					</div>
+					<div class="col-lg-2 col-md-4 col-6">
+						<div class="site-clients mt-3">
+							<img src="images/clients/client-03.png" alt="partners" class="img-fluid mx-auto d-block">
+						</div>
+					</div>
+					<div class="col-lg-2 col-md-4 col-6">
+						<div class="site-clients mt-3">
+							<img src="images/clients/client-04.png" alt="partners" class="img-fluid mx-auto d-block">
+						</div>
+					</div>
+					<div class="col-lg-2 col-md-4 col-6">
+						<div class="site-clients mt-3">
+							<img src="images/clients/client-05.png" alt="partners" class="img-fluid mx-auto d-block">
+						</div>
+					</div>
+					<div class="col-lg-2 col-md-4 col-6">
+						<div class="site-clients mt-3">
+							<img src="images/clients/client-06.png" alt="partners" class="img-fluid mx-auto d-block">
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- CLIENTS END -->
+
+		<!-- BLOG START -->
+		<!-- <section class="section" id="news" style="display: none;">
+			<div class="container">
+				<div class="row justify-content-center">
+					<div class="col-md-8">
+						<div class="section-title text-center">
+							<h1 class="section-subtitle-top mb-4">Blogs</h1>
+							<h3><i class="fas fa-newspaper mr-3"></i>Recent Articles</h3>
+							<p class="text-muted">I love to explore design and interact people with it. I design
+								Website, Icons, Logos,
+								Print Templates, Mobile & Desktop App.</p>
+						</div>
+					</div>
+				</div>
+
+				<div class="row">
+					<div class="col-md-4">
+						<div class="blog-menu mt-30">
+							<img src="images/blog/blog-1.jpg" class="img-fluid" alt="img_missing">
+							<div class="blog-head">
+								<h5>UI & UX Design</h5>
+								<h4><a href="#" class="blog-title">Enjoy The Beautiful Sights</a></h4>
+								<p class="mt-2 mb-0 text-muted">Lorem ipsum dolor consectetur elit adipiscing tha seding
+									do eiusmod tempor.</p>
+								<div class="mt-2">
+									<a href="#" class="read-btn">Read More <i class="fas fa-long-arrow-right"></i></a>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4">
+						<div class="blog-menu mt-30">
+							<img src="images/blog/blog-2.jpg" class="img-fluid" alt="img_missing">
+							<div class="blog-head">
+								<h5>Digital Marketing</h5>
+								<h4><a href="#" class="blog-title">New Fashion Trends</a></h4>
+								<p class="mt-2 mb-0 text-muted">Lorem ipsum dolor consectetur elit adipiscing tha seding
+									do eiusmod tempor.</p>
+								<div class="mt-2">
+									<a href="#" class="read-btn">Read More <i class="fas fa-long-arrow-right"></i></a>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4">
+						<div class="blog-menu mt-30">
+							<img src="images/blog/blog-3.jpg" class="img-fluid" alt="img_missing">
+							<div class="blog-head">
+								<h5>Apps Design</h5>
+								<h4><a href="#" class="blog-title">The Norway Experience</a></h4>
+								<p class="mt-2 mb-0 text-muted">Lorem ipsum dolor consectetur elit adipiscing tha seding
+									do eiusmod tempor.</p>
+								<div class="mt-2">
+									<a href="#" class="read-btn">Read More <i class="fas fa-long-arrow-right"></i></a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section> -->
+		<!-- BLOG END -->
+
+		<!-- Contact START -->
+		<section class="section bg-light" id="contact">
+			<div class="container">
+				<div class="row justify-content-center">
+					<div class="col-md-8">
+						<div class="section-title text-center">
+							<h1 class="section-subtitle-top mb-4">Contact</h1>
+							<h3><i class="fas fa-envelope mr-3"></i>Get In Touch!</h3>
+							<p class="text-muted">Let's create something together!</p>
+						</div>
+					</div>
+				</div>
+
+				<div class="row">
+					<div class="col-lg-8">
+						<div class="contact-form mt-30">
+							<h4>Let's Talk</h4>
+							<div class="custom-form">
+								<div id="message" style="color: #28a745;font-weight: bold;font-family: monospace;">
+								</div>
+								<form method="post"
+									action=""
+									name="contact-form" id="contact-form">
+									<div class="row">
+										<div class="col-md-6">
+											<div class="form-group">
+												<input id="name" name="name" type="text" placeholder="Name" required
+													class="validate form-control">
+												<span class="input-focus-effect theme-bg"></span>
+											</div>
+										</div>
+
+										<div class="col-md-6">
+											<div class="form-group">
+												<input id="email" type="email" placeholder="Email" name="email" required
+													class="validate form-control">
+												<span class="input-focus-effect theme-bg"></span>
+											</div>
+										</div>
+
+										<div class="col-md-12">
+											<div class="form-group">
+												<textarea id="comments" placeholder="Your Massage" name="message"
+													required class="form-control"></textarea>
+												<span class="input-focus-effect theme-bg"></span>
+											</div>
+										</div>
+
+										<div class="col-md-12">
+											<div class="send">
+												<button type="submit" class="btn btn-custom"><i
+														class="fas fa-paper-plane mr-2"></i>Send Message</button>
+												<div id="simple-msg"></div>
+											</div>
+										</div>
+									</div>
+								</form>
+							</div>
+						</div>
+					</div> <!-- col -->
+
+					<div class="col-lg-4">
+						<div class="contact-info mt-30">
+							<h4>Contact Details</h4>
+							<ul class="list-unstyled">
+								<!-- <li><i class="fas fa-map-marker-alt contact-i"></i>Srinagar</li> -->
+								<li><i class="fas fa-phone contact-i"></i>+91-9815952100</li>
+								<li><i class="fab fa-whatsapp contact-i"></i>+91-9815952100</li>
+								<li><i class="fab fa-skype contact-i"></i>vivek Mishra</li>
+								<li><i class="fab fa-instagram contact-i"></i>@mishraa2535</li>
+							</ul>
+							<div class="bar"></div>
+							<div class="contact-social">
+								<ul class="list-unstyled home-icon text-center mb-0">
+									<li class="list-inline-item mb-0" title="vivekmishra - LinkedIn"><a
+											href="https://linkedin.com/in/vivekmishra25/" target="_blank"><i
+												class="fab fa-linkedin"></i></a></li>
+									<li class="list-inline-item mb-0" title="vivek mishra- Facebook"><a
+											href="https://facebook.com/developerreyaz" target="_blank"><i
+												class="fab fa-facebook-f"></i></a></li>
+									<li class="list-inline-item mb-0" title="vivekmishra - Instagram"><a
+											href="https://instagram.com/mishraa2535" target="_blank"><i
+												class="fab fa-instagram"></i></a></li>
+									<li class="list-inline-item mb-0" title="vivekmishra - Twitter"><a
+											href="https://twitter.com/vivekmishra" target="_blank"><i
+												class="fab fa-twitter"></i></a></li>
+									<li class="list-inline-item mb-0" title="vivekmishra - YouTube"><a
+											href="https://youtube.com/"
+											target="_blank"><i class="fab fa-youtube"></i></a></li>
+								</ul>
+							</div>
+						</div>
+					</div><!-- col -->
+				</div>
+			</div>
+		</section>
+		<!-- CONTACT END -->
+
+		<!-- FOOTER -->
+		<section class="footer bg-dark" id="footer">
+			<div class="container">
+				<div class="row justify-content-center">
+					<div class="col-sm-6">
+						<div class="footer-menu text-center">
+							<h5>Version 1.0</h5>
+							<h5>2021 © Mishra</h5>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- FOOTER -->
+
+		<!-- JAVASCRIPTS -->
+		<script src="js/jquery.min.js"></script>
+		<!-- bootstrap -->
+		<script src="js/bootstrap.min.js"></script>
+		<!--  -->
+		<script src="js/popper.min.js"></script>
+		<script src="js/menu.js"></script>
+		<script src="js/portfolio-filter.js"></script>
+		<!-- Easing JS -->
+		<script src="js/jquery.easing.min.js"></script>
+		<!-- SCROLL -->
+		<script src="js/scrollspy.min.js"></script>
+		<!-- Portfolio -->
+		<script src="js/jquery.magnific-popup.min.js"></script>
+		<script src="js/isotope.js"></script>
+		<!-- Counter -->
+		<script src="js/counter.init.js"></script>
+		<!-- Counter -->
+		<script src="js/contact.js"></script>
+		<!-- Owl Carousel -->
+		<script src="js/owl.carousel.min.js"></script>
+		<!-- Easypie Chart -->
+		<script src="js/jquery.easypiechart.min.js"></script>
+		<!--Particles JS-->
+		<script src="js/particles.js"></script>
+		<script src="js/particles.app.js"></script>
+		<!-- Typed -->
+		<script src="js/typed.js"></script>
+		<script src="js/typed.init.js"></script>
+		<!-- Custom -->
+		<script src="js/app.js"></script>
+	</div>
+
+
+
+
+	<!--<script src="https://code.tidio.co/1qlawqsrdaspk1oetdnc5ltq0gqosty5.js"></script> -->
+</body>
+
+
+</html>
